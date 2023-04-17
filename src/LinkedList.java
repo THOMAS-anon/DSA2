@@ -48,6 +48,7 @@ public class LinkedList {
                node=node.next;
              }
              System.out.println(node.data);
+            System.out.println("fine");
         }
 
 }
